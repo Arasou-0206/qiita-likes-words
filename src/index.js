@@ -22,7 +22,7 @@ const App = () => {
           <div className="container">
             <div className="content has-text-centered">
               <h3>2019年度尾上ゼミ 情報科学講究1 課題制作</h3>
-              <h1>タイトル</h1>
+              <h1>Qiitaの『いいね』数と文字数に関する可視化</h1>
               <p>これはデータの説明です。</p>
               <p>これは可視化の説明です。</p>
               <div div style={{width: '1350px', height: '1300px' , overflow:'auto'}} >
@@ -34,7 +34,7 @@ const App = () => {
         label = "id"
         valueScale={{ type: 'linear', min: 100, max: 4000, reverse: false }}
         size={{ key:'words', values: [ 1000, 70000 ], sizes: [ 1, 20 ] }}
-        spacing={3}
+        spacing={4}
         forceStrength={9.0}
         simulationIterations={200}
         colors={{ scheme: 'category10' }}
@@ -84,13 +84,14 @@ const App = () => {
     />
                </div>
               </div>
+              <br>
               <p>これは可視化結果の考察です。</p>
             </div>
           </div>
         </section>
         <footer className="footer">
           <div className="content has-text-centered">
-            <p>&copy;2019 メンバー1, メンバー2, メンバー3</p>
+            <p>&copy;2019 荒木 創太郎,坂本 愛弥</p>
           </div>
         </footer>
       </>
