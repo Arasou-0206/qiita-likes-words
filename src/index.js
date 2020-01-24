@@ -13,7 +13,7 @@ const App = () => {
     })
   },[])
   const newData = data.filter(function(item, index){
-    if(item.likes > 100)return true;
+    if(item.likes > 100 && item.words > 10000)return true;
   });
 
   return (
@@ -32,11 +32,11 @@ const App = () => {
         groups={['C#','C++','CSS','Go','HTML','Java','JavaScript','PHP','Python','Ruby','Swift']}
         value= "likes"
         label = "id"
-        valueScale={{ type: 'linear', min: 100, max: 4000, reverse: false }}
-        size={{ key:'words', values: [ 1000, 70000 ], sizes: [ 1, 20 ] }}
-        spacing={4}
-        forceStrength={9.0}
-        simulationIterations={200}
+        valueScale={{ type: 'linear', min: 0, max: 4000, reverse: false }}
+        size={{ key:'words', values: [ 1000, 70000 ], sizes: [ 1, 10 ] }}
+        spacing={3}
+        //forceStrength={9.0}
+        simulationIterations={300}
         colors={{ scheme: 'category10' }}
         borderColor={{ from: 'color', modifiers: [ [ 'darker', 0.6 ] ] }}
         margin={{ top: 80, right: 100, bottom: 80, left: 100 }}
@@ -84,7 +84,7 @@ const App = () => {
     />
                </div>
               </div>
-              <br>
+              <br></br>
               <p>これは可視化結果の考察です。</p>
             </div>
           </div>
