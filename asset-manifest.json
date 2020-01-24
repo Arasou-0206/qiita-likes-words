@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.f3f7b0b6.chunk.js",
-    "main.js.map": "/static/js/main.f3f7b0b6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a43b6eb2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a43b6eb2.js.map",
-    "static/js/2.2ba2d27a.chunk.js": "/static/js/2.2ba2d27a.chunk.js",
-    "static/js/2.2ba2d27a.chunk.js.map": "/static/js/2.2ba2d27a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e311c2fe43b51ef7ca2eaac0b544318a.js": "/precache-manifest.e311c2fe43b51ef7ca2eaac0b544318a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.2ba2d27a.chunk.js.LICENSE": "/static/js/2.2ba2d27a.chunk.js.LICENSE"
+    "main.js": "/qiita-likes-words/static/js/main.cae707f8.chunk.js",
+    "main.js.map": "/qiita-likes-words/static/js/main.cae707f8.chunk.js.map",
+    "runtime-main.js": "/qiita-likes-words/static/js/runtime-main.be2cfedc.js",
+    "runtime-main.js.map": "/qiita-likes-words/static/js/runtime-main.be2cfedc.js.map",
+    "static/js/2.25f9d01c.chunk.js": "/qiita-likes-words/static/js/2.25f9d01c.chunk.js",
+    "static/js/2.25f9d01c.chunk.js.map": "/qiita-likes-words/static/js/2.25f9d01c.chunk.js.map",
+    "index.html": "/qiita-likes-words/index.html",
+    "precache-manifest.850b3cc56582a9c42fed202bd5468f1e.js": "/qiita-likes-words/precache-manifest.850b3cc56582a9c42fed202bd5468f1e.js",
+    "service-worker.js": "/qiita-likes-words/service-worker.js",
+    "static/js/2.25f9d01c.chunk.js.LICENSE": "/qiita-likes-words/static/js/2.25f9d01c.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.a43b6eb2.js",
-    "static/js/2.2ba2d27a.chunk.js",
-    "static/js/main.f3f7b0b6.chunk.js"
+    "static/js/runtime-main.be2cfedc.js",
+    "static/js/2.25f9d01c.chunk.js",
+    "static/js/main.cae707f8.chunk.js"
   ]
 }
