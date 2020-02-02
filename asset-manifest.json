@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/qiita-likes-words/static/js/main.5124bcdd.chunk.js",
-    "main.js.map": "/qiita-likes-words/static/js/main.5124bcdd.chunk.js.map",
+    "main.js": "/qiita-likes-words/static/js/main.8f05135b.chunk.js",
+    "main.js.map": "/qiita-likes-words/static/js/main.8f05135b.chunk.js.map",
     "runtime-main.js": "/qiita-likes-words/static/js/runtime-main.be2cfedc.js",
     "runtime-main.js.map": "/qiita-likes-words/static/js/runtime-main.be2cfedc.js.map",
-    "static/js/2.3f07d9c8.chunk.js": "/qiita-likes-words/static/js/2.3f07d9c8.chunk.js",
-    "static/js/2.3f07d9c8.chunk.js.map": "/qiita-likes-words/static/js/2.3f07d9c8.chunk.js.map",
+    "static/js/2.a1c15c34.chunk.js": "/qiita-likes-words/static/js/2.a1c15c34.chunk.js",
+    "static/js/2.a1c15c34.chunk.js.map": "/qiita-likes-words/static/js/2.a1c15c34.chunk.js.map",
     "index.html": "/qiita-likes-words/index.html",
-    "precache-manifest.73f855dd2f1e00be6e555310009f63f3.js": "/qiita-likes-words/precache-manifest.73f855dd2f1e00be6e555310009f63f3.js",
+    "precache-manifest.1c16606e89a192a078e77a8086c8f6c1.js": "/qiita-likes-words/precache-manifest.1c16606e89a192a078e77a8086c8f6c1.js",
     "service-worker.js": "/qiita-likes-words/service-worker.js",
-    "static/js/2.3f07d9c8.chunk.js.LICENSE": "/qiita-likes-words/static/js/2.3f07d9c8.chunk.js.LICENSE"
+    "static/js/2.a1c15c34.chunk.js.LICENSE.txt": "/qiita-likes-words/static/js/2.a1c15c34.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.be2cfedc.js",
-    "static/js/2.3f07d9c8.chunk.js",
-    "static/js/main.5124bcdd.chunk.js"
+    "static/js/2.a1c15c34.chunk.js",
+    "static/js/main.8f05135b.chunk.js"
   ]
 }
