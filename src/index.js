@@ -56,7 +56,7 @@ const App = () => {
             tickSize: 10,
             tickPadding: 5,
             tickRotation: 0,
-            legend: 'group if vertical, price if horizontal',
+            legend: '言語',
             legendPosition: 'middle',
             legendOffset: -46
         }}
@@ -65,7 +65,7 @@ const App = () => {
             tickSize: 10,
             tickPadding: 5,
             tickRotation: 0,
-            legend: 'price if vertical, group if horizontal',
+            legend: '『いいね』数',
             legendPosition: 'middle',
             legendOffset: 76
         }}
@@ -74,7 +74,7 @@ const App = () => {
             tickSize: 20,
             tickPadding: 5,
             tickRotation: 0,
-            legend: 'group if vertical, price if horizontal',
+            legend: '言語',
             legendPosition: 'middle',
             legendOffset: 46
         }}
@@ -83,7 +83,7 @@ const App = () => {
             tickSize: 10,
             tickPadding: 5,
             tickRotation: 0,
-            legend: 'price if vertical, group if horizontal',
+            legend: '『いいね』数',
             legendPosition: 'middle',
             legendOffset: -76
         }}
